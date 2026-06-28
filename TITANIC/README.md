@@ -170,7 +170,7 @@ where
 Vectorization allows all training examples to be processed simultaneously without explicit Python loops.
 ---
 
-<img src="./TITANIC/dead-alive.png" alt=".Titanic" width="500"/>
+<img src="./dead-alive.png" alt=".Titanic" width="500"/>
 
 ## Kaggle Result
 
